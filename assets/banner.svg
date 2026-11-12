@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 200" width="800" height="200" role="img" aria-label="colorlens - color converter and WCAG contrast checker">
+  <style>
+    .t{font:700 54px monospace;fill:#e6edf3}
+    .s{font:18px monospace;fill:#8b949e}
+    .c{transform-box:fill-box;transform-origin:center;animation:pulse 3s ease-in-out infinite}
+    @keyframes pulse{0%,100%{transform:scale(1);opacity:.7}50%{transform:scale(1.2);opacity:1}}
+  </style>
+  <rect width="800" height="200" rx="14" fill="#0d1117"/>
+  <text x="40" y="100" class="t">colorlens</text>
+  <text x="42" y="138" class="s">convert &#183; contrast &#183; shades</text>
+  <rect class="c" x="470" y="70" width="40" height="60" rx="8" fill="#ef4444" style="animation-delay:0s"/>
+  <rect class="c" x="520" y="70" width="40" height="60" rx="8" fill="#f59e0b" style="animation-delay:.25s"/>
+  <rect class="c" x="570" y="70" width="40" height="60" rx="8" fill="#22c55e" style="animation-delay:.5s"/>
+  <rect class="c" x="620" y="70" width="40" height="60" rx="8" fill="#06b6d4" style="animation-delay:.75s"/>
+  <rect class="c" x="670" y="70" width="40" height="60" rx="8" fill="#3b82f6" style="animation-delay:1s"/>
+  <rect class="c" x="720" y="70" width="40" height="60" rx="8" fill="#a855f7" style="animation-delay:1.25s"/>
+</svg>
